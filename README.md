@@ -28,10 +28,6 @@
 - **Fichiers côté serveur :** `createPosition.php`  
 - **Permissions Android :** `ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`  
 
-## Demo
 
-
-
-https://github.com/user-attachments/assets/b606f892-4622-4668-b8b2-3c94188d6662
 
 
